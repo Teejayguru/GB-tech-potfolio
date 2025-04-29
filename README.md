@@ -21,7 +21,7 @@ This is a fully responsive and interactive personal portfolio website built usin
 
 ## 📷 Preview!
 [home](https://github.com/user-attachments/assets/2b8db00b-18ef-402f-80aa-13d9f8d90c65)
-![education](https://github.com/user-attachments/assets/f5a03d23-9e31-4324-a6ae-bbf818597f85)
+
 ## 🔗 Live Demo
 
 [Click here to view the live demo](https://teejayguru.github.io/GB-tech-potfolio/)  
