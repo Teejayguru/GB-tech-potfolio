@@ -20,7 +20,8 @@ This is a fully responsive and interactive personal portfolio website built usin
 - **Bootstrap 5** – Responsive grid and components
 
 ## 📷 Preview!
-[home](https://github.com/user-attachments/assets/2b8db00b-18ef-402f-80aa-13d9f8d90c65)
+![Portfolio Screenshot](![image](https://github.com/user-attachments/assets/2687e035-f7db-40a2-8e36-cdd02815e63c)
+) <!-- Replace with your image if available -->
 
 ## 🔗 Live Demo
 
